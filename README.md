@@ -24,7 +24,7 @@ B2Peak es una plataforma B2B SaaS que permite a organizaciones (universidades, e
 - **Lucide React** para iconos
 - **QR Code** generator para NFTs
 
-### Backend (Próximamente)
+### Backend 
 - **NestJS API**
 - **PostgreSQL/Supabase** para multi-tenancy
 - **Web3 Integration** (EVM, Solana)
